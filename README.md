@@ -1,6 +1,8 @@
 # Roll the dice
 Simple HTML5/CSS3/Javascript (ES5) project
 
+Live preview: https://tomaszlektorowski.github.io/Roll-the-dice/
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds

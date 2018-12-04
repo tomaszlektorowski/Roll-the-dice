@@ -17,7 +17,7 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 This project does not require any form of installation - just use it as GitHub Pages Live Preview: 
-https://tomaszlektorowski.github.io/Roll-the-dice/
+https://tomaszlektorowski.github.io/RollTheDice/
 
 
 ## Author
